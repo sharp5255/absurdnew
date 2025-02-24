@@ -1,0 +1,2 @@
+# absurdnew
+Absurd News Generator
